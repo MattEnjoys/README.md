@@ -15,7 +15,8 @@ Les différentes synthaxes
 
 _Mettre en italique_
 
-Je tappe du texte et je voudrais revenir à la ligne
+Je tappe du texte et je voudrais
+revenir à la ligne
 
 Faire une liste à puce
 
@@ -45,8 +46,7 @@ Afficher un bout de code
 `le bout de code`
 
 Mettre un lien dans le README.md
-Google [google](https://www.google.fr/)
+Google [e-genieclimatique](www.e-genieclimatique.com)
 
-Mettre une image, un logo
-![logo google](https://www.google.com/search?rlz=1C1OKWM_enFR1057FR1057&sxsrf=APwXEdfQyyvkXV05H_n-ZrFpwT-UsTSJyQ:1687699340072&q=google&tbm=isch&sa=X&ved=2ahUKEwiZ-pv9wd7_AhXmcKQEHWeoCIcQ0pQJegQIExAB&cshid=1687699419289968&biw=1597&bih=1208&dpr=0.8#imgrc=mNvT3T4Zgwn3FM)
-
+Mettre une image, un logo  
+![e-genieclimatique](www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/08/Logo-E-1.jpg)
