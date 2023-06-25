@@ -52,7 +52,7 @@ Mettre une image, un logo
 ![logo e-genieclimatique](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/08/Logo-E-1.jpg)
 
 Autres exemples
-[![Build Status](https://github.com/github/opensource.guide/workflows§GitHub%20CI/badge.svg) ] (https://github.com/github/opensource.guide/actions)
+[![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
 Pour aller sur des comptes githubs:
 **[@MattEnjoys][1], [@MattEnjoys][2],**and **[@MattEnjoys][3]**.
