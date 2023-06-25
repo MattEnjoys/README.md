@@ -46,7 +46,7 @@ Afficher un bout de code
 `le bout de code`
 
 Mettre un lien dans le README.md
-Google [e-genieclimatique](www.e-genieclimatique.com)
+Google [e-genieclimatique](https://www.e-genieclimatique.com)
 
-Mettre une image, un logo  
-![e-genieclimatique](www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/08/Logo-E-1.jpg)
+Mettre une image, un logo
+![logo e-genieclimatique](https://www.e-genieclimatique.com/wordpress/wp-content/uploads/2017/08/Logo-E-1.jpg)
