@@ -1,6 +1,8 @@
 Le README.md est la pour donner des informations sur le programme, comme par exemple pour comment faire l'installation ou si besoin d'un backend.
 Utilisation du language markdown pour la mise en page. (c'est un langage de balisage leger pour réaliser une synthaxe facile a lire et à écrire , dans un ficher .md)
 
+Voir la [dec](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/#:~:text=Markdown%20ne%20permet%20pas%20de,typographie%20est%20cependant%20progressivement%20d%C3%A9laiss%C3%A9e.) 
+
 Les différentes synthaxes
 
 # Titre de Niveau 1
